@@ -1,2 +1,2 @@
-# Reversible-Logic
-A streamlined and efficient implementation of fundamental reversible logic gates in C.
+- You’ll see the output of reversible AND, OR, NOT, and Fredkin gates applied to sample inputs, illustrating how these gates maintain information integrity.
+
